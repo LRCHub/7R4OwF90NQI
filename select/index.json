@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "うらやみしい（feat. 初音ミク、可不、Kai）",
+  "base_artist": "Loveit Core",
+  "createdAt": "2026-03-06T05:19:54.567515Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "うらやみしい - feat. Kai,初音ミク,可不",
+      "artist": "Loveit Core, Kai, 初音ミク, 可不",
+      "has_synced": false,
+      "path": "select/pl_01_うらやみしい_-_feat._Kai,初音ミク,可不_Loveit_Core,_Kai,_初音ミク,_可不.txt"
+    }
+  ]
+}
